@@ -1,0 +1,4 @@
+O cofre precisa ser rodado no terminal porque ele é um programa de texto. Ele pede sua senha e mostra opções digitando, então o terminal é a “janela” por onde você conversa com o programa.
+
+
+Entra no terminal de sua IDE, selecione o CMD e execute "python cofre.py"
